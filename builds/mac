@@ -1440,4 +1440,3 @@ echo "#-- fin -- #"
 
 fail "Please close your terminal and open a new one!" true
 echo ""
-
