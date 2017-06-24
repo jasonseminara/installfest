@@ -48,7 +48,7 @@ brew cask install sublime-text
 brew cask install slack
 
 # Our window manager
-#brew cask install spectacle
+brew cask install spectacle
 
 # A screenshot sharing tool
 #brew cask install mac2imgur
@@ -78,7 +78,7 @@ brew cask install slack
 #   - https://support.apple.com/en-us/HT201341
 # Cross-platform *nix window server, useful for a number of developer
 # and open-source tools (Inkscape, Gimp, Meld, etc.)
-brew cask install xquartz
+#brew cask install xquartz
 # ----------------------------------------------------------------------
 
 show "Complete!"

@@ -5,7 +5,7 @@
     "ColorPicker",
     "Dotfiles Syntax Highlighting",
     "EditorConfig",
-    // "Emmet",
+    "Emmet",
     // "Gist",
     // "GitGutter",
     // "Markdown Preview",
@@ -16,7 +16,8 @@
     "Sass",
     "SCSS",
     // "SideBarEnhancements",
-    // "SublimeLinter",
+    "SublimeLinter",
+    "SublimeLinter-contrib-eslint",
     "Themr"
   ]
 }
